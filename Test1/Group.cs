@@ -29,7 +29,7 @@ namespace Test1
             Console.WriteLine("Grupi nimi: " + Name + "\nÕpilased:");
             foreach (var item in Students)
             {
-                Console.WriteLine(item.FirstName + " " + item.LastName + " " + item.IsStudying);
+                Console.WriteLine(item.FirstName + " " + item.LastName);
             }
             
         }
