@@ -44,6 +44,12 @@ namespace FavouriteColor
             {
                 file.WriteLine($"{someone.FirstName} {someone.LastName}, lemmikvärv: {someone.FavouriteColor}");
             }
+
+            string path = Directory.GetParent(System.Reflection.Assembly.GetExecutingAssembly().Location).FullName; // töökataloogi asukoht
+            using (StreamWriter file = new StreamWriter(path))
+            {
+                file.WriteLine($"{someone.FirstName} {someone.LastName}, lemmikvärv: {someone.FavouriteColor}");
+            }
             //Console.ReadKey();
         }
     }
