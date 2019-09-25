@@ -1,0 +1,11 @@
+C:\Users\opilane\Desktop\tund18.09-master\FavouriteColor\bin\Debug\FavouriteColor.exe.config
+C:\Users\opilane\Desktop\tund18.09-master\FavouriteColor\bin\Debug\FavouriteColor.exe
+C:\Users\opilane\Desktop\tund18.09-master\FavouriteColor\bin\Debug\FavouriteColor.pdb
+C:\Users\opilane\Desktop\tund18.09-master\FavouriteColor\bin\Debug\ConsoleApp2.exe
+C:\Users\opilane\Desktop\tund18.09-master\FavouriteColor\bin\Debug\ConsoleApp2.pdb
+C:\Users\opilane\Desktop\tund18.09-master\FavouriteColor\bin\Debug\ConsoleApp2.exe.config
+C:\Users\opilane\Desktop\tund18.09-master\FavouriteColor\obj\Debug\FavouriteColor.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\tund18.09-master\FavouriteColor\obj\Debug\FavouriteColor.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\tund18.09-master\FavouriteColor\obj\Debug\FavouriteColor.exe
+C:\Users\opilane\Desktop\tund18.09-master\FavouriteColor\obj\Debug\FavouriteColor.pdb
+C:\Users\opilane\Desktop\tund18.09-master\FavouriteColor\bin\Debug\list.txt
