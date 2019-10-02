@@ -1,0 +1,7 @@
+C:\Users\opilane\Desktop\RobertHuul-master\Tund02.10\bin\Debug\Tund02.10.exe.config
+C:\Users\opilane\Desktop\RobertHuul-master\Tund02.10\bin\Debug\Tund02.10.exe
+C:\Users\opilane\Desktop\RobertHuul-master\Tund02.10\bin\Debug\Tund02.10.pdb
+C:\Users\opilane\Desktop\RobertHuul-master\Tund02.10\obj\Debug\Tund02.10.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\RobertHuul-master\Tund02.10\obj\Debug\Tund02.10.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\RobertHuul-master\Tund02.10\obj\Debug\Tund02.10.exe
+C:\Users\opilane\Desktop\RobertHuul-master\Tund02.10\obj\Debug\Tund02.10.pdb

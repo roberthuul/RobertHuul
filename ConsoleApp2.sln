@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavouriteColor", "Favourite
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test1", "Test1\Test1.csproj", "{F6248BD7-D801-47A8-B9E4-BDDC6F1C37AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tund02.10", "Tund02.10\Tund02.10.csproj", "{CD6662FB-5CD1-4B36-B3C7-05239D8B5C6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F6248BD7-D801-47A8-B9E4-BDDC6F1C37AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6248BD7-D801-47A8-B9E4-BDDC6F1C37AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6248BD7-D801-47A8-B9E4-BDDC6F1C37AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD6662FB-5CD1-4B36-B3C7-05239D8B5C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6662FB-5CD1-4B36-B3C7-05239D8B5C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6662FB-5CD1-4B36-B3C7-05239D8B5C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6662FB-5CD1-4B36-B3C7-05239D8B5C6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
