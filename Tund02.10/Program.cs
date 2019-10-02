@@ -15,7 +15,6 @@ namespace Tund02._10
             Cat cat = new Cat();
 
             Bird bird = new Bird();
-
             dog.Talk();
             Console.WriteLine();
             cat.Talk();
@@ -23,6 +22,19 @@ namespace Tund02._10
             bird.Talk();
             Console.WriteLine();
             Console.WriteLine(bird.legN);
+
+            Square square = new Square(2);
+            Circle circle = new Circle(3);
+            Rectangle rectangle = new Rectangle(2, 3);
+            square.Area();
+            square.Perimeter();
+            Console.WriteLine(square.Type);
+            circle.Area();
+            circle.Perimeter();
+            Console.WriteLine(circle.Type);
+            rectangle.Area();
+            rectangle.Perimeter();
+            Console.WriteLine(rectangle.Type);
             Console.ReadKey();
         }
     }

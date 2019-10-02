@@ -45,10 +45,14 @@
     <Compile Include="Animal.cs" />
     <Compile Include="Bird.cs" />
     <Compile Include="Cat.cs" />
+    <Compile Include="Circle.cs" />
     <Compile Include="Dog.cs" />
     <Compile Include="Mammal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rectangle.cs" />
+    <Compile Include="Shape.cs" />
+    <Compile Include="Square.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
